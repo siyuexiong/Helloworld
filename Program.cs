@@ -14,6 +14,7 @@ namespace HelloWorld
             else{
                 Console.WriteLine("this is my second line");
                 Console.Beep(1000,1000);//发出一个蜂鸣
+                Console.WriteLine("xsy is foolish");
             }
             
         }
